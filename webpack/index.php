@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<base href="<?php echo dirname($_SERVER["PHP_SELF"]) . "/"; ?>" />
 
-		<title>Angular 2 Quickstart</title>
+		<title>Angular 2 Quickstart2</title>
 	</head>
 	<body>
 		<quickstart2-app>Loading&hellip;</quickstart2-app>
